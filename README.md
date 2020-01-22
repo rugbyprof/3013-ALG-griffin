@@ -3,8 +3,7 @@
 #### Email: albert.einstein@yahoo.com
 #### Website: https://en.wikipedia.org/wiki/Albert_Einstein
 #### Image:
-![Albert Einstein](https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/einstein.png)
-![Powers](./powers.jpg)
+
 <img src="powers.jpg" width="300">
 #### Avatar:
 ![Avatar](https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/einstein_avatar.png)
